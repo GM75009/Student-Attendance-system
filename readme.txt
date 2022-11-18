@@ -1,0 +1,1 @@
+Hello made a project of students attendance management system. Where i made a students attendance, percentage. Actually i uploaded the different project files so now uploading it once again.
